@@ -1,3 +1,6 @@
+
+### This code is associated with the paper from Pogorelyy et al., "Method for identification of condition-associated public antigen receptor sequences". eLife, 2018. http://dx.doi.org/10.7554/eLife.33050
+
 # vdjRec version 0.1
 TCR amino acid sequence generation and recombination probability estimation in R. Some R skills are required to use advanced features.  
 
